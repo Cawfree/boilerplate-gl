@@ -1,4 +1,4 @@
-package uk.ac.manchester.sisp.ribbon.opengl;
+package com.github.cawfree.boilerplate;
 
 public interface IGL {
 	public static final int GL_DEPTH_BUFFER_BIT = 256;

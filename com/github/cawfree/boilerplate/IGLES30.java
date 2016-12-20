@@ -1,4 +1,4 @@
-package uk.ac.manchester.sisp.ribbon.opengl;
+package com.github.cawfree.boilerplate;
 
 public interface IGLES30 extends IGLES20 {
 	

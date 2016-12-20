@@ -1,4 +1,4 @@
-package uk.ac.manchester.sisp.punch;
+package com.github.cawfree.boilerplate.desktop;
 
 import java.nio.Buffer;
 import java.nio.FloatBuffer;
@@ -8,7 +8,7 @@ import javax.media.opengl.GL2ES2;
 import javax.media.opengl.GLAutoDrawable;
 import javax.media.opengl.GLEventListener;
 
-import uk.ac.manchester.sisp.ribbon.opengl.IGLES20;
+import com.github.cawfree.boilerplate.IGLES20;
 
 public class DesktopGLES20 implements GLEventListener, IGLES20 {
 	

@@ -8,5 +8,4 @@ public interface IGLEventListener<T extends IGL> {
 	public void reshape(final T pGL, final int pX, final int pY, final int pWidth, final int pHeight);
 	public void display(final T pGL);
 	public void dispose(final T pGL);
-	
 }
